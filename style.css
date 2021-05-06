@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+}
+.gry{
+    background-color: silver;
+    width: 700px;
+    height: 400px;
+    border-radius: 20px;
+    margin-top: 175px;
+    margin-left: 415px;
+}
+.grn{
+    background-color: lime;
+    width: 400px;
+    height: 75px;
+    margin-left: 150px;
+}
+.skn{
+    background-color: burlywood;
+    width: 400px;
+    height: 250px;
+    margin-left: 150px;
+}
+.brn{
+    background-color: rgb(211, 95, 18);
+    width: 400px;
+    height: 75px;
+    margin-left: 150px;
+}
